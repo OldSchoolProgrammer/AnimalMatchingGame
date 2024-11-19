@@ -24,6 +24,7 @@
                 animalEmoji.RemoveAt(index);                
             }
         }
+//Checking Git commit changes
 
         private void Button_Clicked(object sender, EventArgs e)
         {
